@@ -1,3 +1,5 @@
+![logo](https://github.com/priyam1608/priyam1608/blob/main/20230919_134514_0000.png)
+
 <h1 align="center">Hi 👋, I'm Priyam Sharma</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
