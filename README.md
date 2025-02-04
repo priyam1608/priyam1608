@@ -1,7 +1,7 @@
 ![logo](https://github.com/priyam1608/priyam1608/blob/main/20230919_134514_0000.png)
 
 <h1 align="center">Hi 👋, I'm Priyam Sharma</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer and Data Scientist from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
 
@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/priyam16082002" target="blank"><img src="https://img.shields.io/twitter/follow/priyam16082002?logo=twitter&style=for-the-badge" alt="priyam16082002" /></a> </p>
 
-- 🌱 I’m currently learning **Bachelor of Computer Applications (BCA)**
+- 🌱 I’m currently learning **Masters of Computer Applications (MCA)**
 
 - 📫 How to reach me **sharmapriyam1608@gmail.com**
 
