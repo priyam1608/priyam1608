@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/priyam16082002" target="blank"><img src="https://img.shields.io/twitter/follow/priyam16082002?logo=twitter&style=for-the-badge" alt="priyam16082002" /></a> </p>
 
-- 🌱 I’m currently learning **Masters of Computer Applications (MCA)**
+- 🌱 I’m currently learning **Masters of Computer Applications (MCA) in Artificial Intelligence and Data Science** from **Manav Rachna International Institute of Research and studies** 
 
 - 📫 How to reach me **sharmapriyam1608@gmail.com**
 
