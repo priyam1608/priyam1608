@@ -59,6 +59,7 @@
   <a href="https://netbeans.apache.org/front/main/index.html" target="_blank" rel="noreferrer"> <img src="https://netbeans.apache.org/_/images/apache-netbeans.svg" alt="Apache Netbeans" width="40" height="40" /></a>
   <a href="https://eclipseide.org/" target="_blank" rel="noreferrer"> <img src="https://eclipseide.org/images/logo/eclipse-ide-logo-white.svg" alt="Eclipse" width="40" height="40" /></a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VS code" width="40" height="40" /></a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://jupyter.org/assets/logos/rectanglelogo-greytext-orangebody-greymoons.svg" alt="Jupyter Notebook" height="40" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyam1608&show_icons=true&locale=en&layout=compact" alt="priyam1608" /></p>
